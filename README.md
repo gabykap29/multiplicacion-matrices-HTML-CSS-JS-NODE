@@ -7,7 +7,7 @@ Este proyecto es una aplicación web simple que permite multiplicar dos matrices
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/multiplicacion-matrices.git
+   git clone https://github.com/gabykap29/multiplicacion-matrices-HTML-CSS-JS-NODE.git
 
 2. cd multiplicacion-matrices
 
